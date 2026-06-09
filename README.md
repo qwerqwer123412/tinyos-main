@@ -31,7 +31,6 @@ tx power 31
 | `../tos/lib/net/blip/IPDispatch.h` | BLIP fragment pool 기본값 |
 | `../tools/tinyos/c/blip/libtcp/tcplib.c` | BLIP TCP 송신 처리 |
 | `../tools/tinyos/c/blip/lib6lowpan/ip_malloc.c` | BLIP heap allocator |
-| `인수인계.md` | 상세 인수인계 및 수정 이력 |
 
 ## 빌드 및 플래시
 
