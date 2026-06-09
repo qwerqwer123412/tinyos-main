@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/NxFloat" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TestDhv" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TestDip" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TestSerial" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TestSerialBandwidth" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/mts400" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,36 @@
+using channel 92
+Using interface ppp0
+Connect: ppp0 <--> /dev/ttyUSB0
+sent [LCP ConfReq id=0x1 <asyncmap 0x0> <magic 0xe635d1a8> <pcomp> <accomp>]
+rcvd [LCP ConfReq id=0xb <mru 1280> <asyncmap 0x0> <accomp>]
+sent [LCP ConfAck id=0xb <mru 1280> <asyncmap 0x0> <accomp>]
+rcvd [LCP ConfRej id=0x1 <magic 0xe635d1a8> <pcomp>]
+sent [LCP ConfReq id=0x2 <asyncmap 0x0> <accomp>]
+rcvd [LCP ConfAck id=0x2 <asyncmap 0x0> <accomp>]
+sent [IPV6CP ConfReq id=0x1 <addr fe80::0000:0000:0000:0023>]
+rcvd [IPV6CP ConfReq id=0x1 <addr fe80::0000:0000:0000:0000>]
+sent [IPV6CP ConfNak id=0x1 <addr fe80::0000:0000:0000:0024>]
+rcvd [IPV6CP ConfAck id=0x1 <addr fe80::0000:0000:0000:0023>]
+sent [IPV6CP ConfReq id=0x1 <addr fe80::0000:0000:0000:0023>]
+rcvd [IPV6CP ConfReq id=0x2 <addr fe80::0000:0000:0000:0000>]
+sent [IPV6CP ConfNak id=0x2 <addr fe80::b050:1d9e:21d3:99a2>]
+rcvd [IPV6CP ConfAck id=0x1 <addr fe80::0000:0000:0000:0023>]
+sent [IPV6CP ConfReq id=0x1 <addr fe80::0000:0000:0000:0023>]
+rcvd [IPV6CP ConfReq id=0x3 <addr fe80::0000:0000:0000:0000>]
+sent [IPV6CP ConfNak id=0x3 <addr fe80::34f7:7df4:7cbd:ee7d>]
+rcvd [IPV6CP ConfAck id=0x1 <addr fe80::0000:0000:0000:0023>]
+rcvd [IPV6CP ConfReq id=0x4 <addr fe80::0000:0000:0000:0000>]
+sent [IPV6CP ConfNak id=0x4 <addr fe80::1cb2:1ad4:4c5c:aaf5>]
+rcvd [IPV6CP ConfReq id=0x5 <addr fe80::34f7:7df4:7cbd:ee7d>]
+sent [IPV6CP ConfAck id=0x5 <addr fe80::34f7:7df4:7cbd:ee7d>]
+local  LL address fe80::0000:0000:0000:0023
+remote LL address fe80::34f7:7df4:7cbd:ee7d
+Script /etc/ppp/ipv6-up started (pid 1884499)
+Script /etc/ppp/ipv6-up finished (pid 1884499), status = 0x0
+Hangup (SIGHUP)
+Modem hangup
+Script /etc/ppp/ipv6-down started (pid 1891411)
+Connection terminated.
+Connect time 1.8 minutes.
+Sent 2596 bytes, received 5931 bytes.
+Script /etc/ppp/ipv6-down finished (pid 1891411), status = 0x0

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AntiTheft/AntiTheft.iml" filepath="$PROJECT_DIR$/AntiTheft/AntiTheft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/LinkBench/LinkBench.iml" filepath="$PROJECT_DIR$/tests/LinkBench/LinkBench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorials/LowPowerSensing/LowPowerSensing.iml" filepath="$PROJECT_DIR$/tutorials/LowPowerSensing/LowPowerSensing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultihopOscilloscope/MultihopOscilloscope.iml" filepath="$PROJECT_DIR$/MultihopOscilloscope/MultihopOscilloscope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultihopOscilloscopeLqi/MultihopOscilloscopeLqi.iml" filepath="$PROJECT_DIR$/MultihopOscilloscopeLqi/MultihopOscilloscopeLqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oscilloscope/Oscilloscope.iml" filepath="$PROJECT_DIR$/Oscilloscope/Oscilloscope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorials/RssiDemo/RssiDemo.iml" filepath="$PROJECT_DIR$/tutorials/RssiDemo/RssiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/TestFtsp/TestFtsp.iml" filepath="$PROJECT_DIR$/tests/TestFtsp/TestFtsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/TestOscilloscopeLQI/TestOscilloscopeLQI.iml" filepath="$PROJECT_DIR$/tests/TestOscilloscopeLQI/TestOscilloscopeLQI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps.iml" filepath="$PROJECT_DIR$/apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/cc2420/cc2420.iml" filepath="$PROJECT_DIR$/tests/cc2420/cc2420.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/rfxlink/rfxlink.iml" filepath="$PROJECT_DIR$/tests/rfxlink/rfxlink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/tests.iml" filepath="$PROJECT_DIR$/tests/tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/ucmini/ucmini.iml" filepath="$PROJECT_DIR$/tests/ucmini/ucmini.iml" />
+    </modules>
+  </component>
+</project>

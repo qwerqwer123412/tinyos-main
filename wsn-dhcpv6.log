@@ -1,0 +1,6 @@
+Jun  7 17:10:04 dnsmasq[4183938]: started, version 2.90 DNS disabled
+Jun  7 17:10:04 dnsmasq[4183938]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset no-nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Jun  7 17:10:04 dnsmasq-dhcp[4183938]: DHCPv6, IP range fd00:23:42:1::1000 -- fd00:23:42:1::1fff, lease time 12h
+Jun  7 17:10:04 dnsmasq-dhcp[4183938]: DHCP, sockets bound exclusively to interface ppp0
+Jun  7 17:11:01 dnsmasq[4183938]: error binding DHCP socket to device ppp0
+Jun  7 17:11:59 dnsmasq[4183938]: exiting on receipt of SIGTERM
