@@ -1,0 +1,36 @@
+
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# TinyOS / nesC build outputs
+build/
+main.exe
+main.ihex
+*.ihex
+*.exe
+*.out
+*.out-*
+*.o
+*.d
+
+# Java build outputs
+*.class
+
+# Logs
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
